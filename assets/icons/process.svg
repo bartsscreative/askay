@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="concept" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 25h22M8 22l8-15 8 15M11 17h10M16 4v3M5 12h3m16 0h3"/>
+  </symbol>
+  <symbol id="plan" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 6h20v20H6zM6 16h9v10m0-10V6m11 8h-6v7h6M3 10V3h7m12 26h7v-7"/>
+  </symbol>
+  <symbol id="interior" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 12V9a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v3M5 15h3l2 4h12l2-4h3v9H5zm3 9v3m16-3v3M16 7v7"/>
+  </symbol>
+  <symbol id="build" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 26h24M6 26V12h20v14M6 16h20M11 16v10m10-10v10M16 12V5m-7 7 7-7 7 7M11 22h10"/>
+  </symbol>
+</svg>
